@@ -1,4 +1,7 @@
-### Hi there 👋
+### Aspiring data engineer currently learning Python. Reliable data is really cool, needs to be more accessible and prioritized above meetings about strategy.
+
+"The work is mysterious and important"
+--#Severance
 
 <!--
 **NWaz/nwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
