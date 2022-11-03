@@ -1,4 +1,8 @@
-### Aspiring data engineer currently learning Python. Reliable data is really cool, needs to be more accessible and prioritized above meetings about strategy.
+Experienced in: Data Modeling, Relational Database Design, Data Analysis, Data Visualization and Storytelling
+
+Learning: Python, SQL, JavaScript
+
+Fascinated by: clean data, making stuff that does things
 
 "The work is mysterious and important"
 --#Severance
