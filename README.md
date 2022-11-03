@@ -5,7 +5,7 @@ Learning: Python, SQL, JavaScript
 Fascinated by: clean data, making stuff that does things
 
 "The work is mysterious and important"
---#Severance
+--Helly R. #Severance
 
 <!--
 **NWaz/nwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
