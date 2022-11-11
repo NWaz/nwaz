@@ -1,4 +1,4 @@
-Experienced in: Data Modeling, Relational Database Design, Data Analysis, Data Visualization and Storytelling
+Experienced in: Googling, Data Modeling, Relational Database Design, Data Analysis, Data Visualization and Storytelling
 
 Learning: Python, SQL, JavaScript
 
