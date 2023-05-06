@@ -1,6 +1,4 @@
-Experienced in: Googling, Data Modeling, Relational Database Design, Data Analysis, Data Visualization and Storytelling
-
-Learning: Python, SQL, JavaScript
+Currently: becoming frients with GPT-4
 
 Fascinated by: clean data, making stuff that does things
 
